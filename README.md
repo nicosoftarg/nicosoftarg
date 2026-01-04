@@ -7,9 +7,10 @@ I enjoy building small to mid-size projects and iterating quickly on mechanics, 
 ### Current projects
 - **Arcade World Cups (AWC)** - Arcade football game for Windows and Android.
   Playable version:  [Play AWC](https://nicosoftarg.itch.io/arcade-world-cups)
+  
   More games: [My itch.io profile](https://nicosoftarg.itch.io/)
-  Source code & development:
-  [GitHub](https://github.com/nicosoftarg/AWC)
+  
+  Source code & development:  [GitHub](https://github.com/nicosoftarg/AWC)
 
 ### Tools & tech
 - Godot 4.4
